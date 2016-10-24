@@ -3,7 +3,7 @@
  */
 
 
-var goingLocal = true
+var goingLocal = false
 var revenant = -1
 
 if (goingLocal == true) {
